@@ -1,6 +1,6 @@
 # FreeCodeCamp
 
-Practice projects and workshop exercises built while working through FreeCodeCamp JavaScript content.
+Practice projects and workshop exercises built while working through FreeCodeCamp JavaScript and Python content.
 
 ## Structure
 
@@ -9,10 +9,12 @@ Practice projects and workshop exercises built while working through FreeCodeCam
 - `JavaScript/workshop-greeting-bot.js`: Greeting bot workshop script.
 - `JavaScript/lab-javascript-trivia-bot.js`: Trivia bot lab script.
 - `JavaScript/lab-sentence-maker.js`: Sentence maker lab script.
+- `Python/playground.py`: Scratch file for quick Python experiments.
 
 ## Requirements
 
 - Node.js 18+ (or any recent Node.js version)
+- Python 3+
 
 ## Run a Script
 
@@ -23,6 +25,7 @@ node JavaScript/00-playground.js
 node JavaScript/workshop-greeting-bot.js
 node JavaScript/lab-javascript-trivia-bot.js
 node JavaScript/lab-sentence-maker.js
+python3 Python/playground.py
 ```
 
 ## Notes
