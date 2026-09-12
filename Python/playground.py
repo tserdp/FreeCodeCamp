@@ -5,3 +5,14 @@ print(type(my_integer_var))  # <class 'int'>
 
 account_balance = '12'
 print(isinstance(account_balance, int)) # False
+
+my_str_3 = """Multiline
+string"""
+print(my_str_3, type(my_str_3))
+
+msg = "It's a sunny day"
+quote = 'She said, "Hello World!"'
+
+num1 = 5
+num2 = 10
+print(f'The sum of {num1} and {num2} is {num1 + num2}')
