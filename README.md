@@ -2,32 +2,19 @@
 
 Practice projects and workshop exercises built while working through FreeCodeCamp JavaScript and Python content.
 
-## Structure
+## Repository Overview
 
-- `JavaScript/FreeCodeCamp.code-workspace`: VS Code workspace file.
-- `JavaScript/00-playground.js`: Scratch file for quick JavaScript experiments.
-- `JavaScript/workshop-greeting-bot.js`: Greeting bot workshop script.
-- `JavaScript/lab-javascript-trivia-bot.js`: Trivia bot lab script.
-- `JavaScript/lab-sentence-maker.js`: Sentence maker lab script.
-- `Python/playground.py`: Scratch file for quick Python experiments.
+This repository contains a small collection of completed beginner-friendly exercises and practice projects for learning JavaScript and Python. The purpose is to keep a record of the exercises provided by FreeCodeCamp and completed as part of the learning process, while supporting hands-on experimentation and short, focused practice.
 
 ## Requirements
 
 - Node.js 18+ (or any recent Node.js version)
 - Python 3+
 
-## Run a Script
+## Running Examples
 
-From the repository root:
-
-```bash
-node JavaScript/00-playground.js
-node JavaScript/workshop-greeting-bot.js
-node JavaScript/lab-javascript-trivia-bot.js
-node JavaScript/lab-sentence-maker.js
-python3 Python/playground.py
-```
+From the repository root, run JavaScript or Python exercises with the appropriate runtime for the file you are working on.
 
 ## Notes
 
-This repository is intentionally small and focused on learning exercises.
+This repository is intentionally small and focused on learning by doing.
