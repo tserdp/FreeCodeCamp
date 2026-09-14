@@ -16,3 +16,14 @@ quote = 'She said, "Hello World!"'
 num1 = 5
 num2 = 10
 print(f'The sum of {num1} and {num2} is {num1 + num2}')
+
+my_str = 'Hello world'
+print(my_str[1:4]) # ell
+
+my_str = 'Hello world'
+print(my_str[::-1]) # dlrow olleH
+
+my_str = 'hello world'
+
+uppercase_my_str = my_str.upper()
+print(uppercase_my_str)  # HELLO WORLD
