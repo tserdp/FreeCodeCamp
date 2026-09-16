@@ -27,3 +27,11 @@ my_str = 'hello world'
 
 uppercase_my_str = my_str.upper()
 print(uppercase_my_str)  # HELLO WORLD
+
+my_int = 56
+my_float = 5.4
+
+sum_int_and_float = my_int + my_float
+
+print(sum_int_and_float) # 61.4
+print(type(sum_int_and_float)) # <class 'float'>
