@@ -2,7 +2,7 @@
 
 ## Project Context
 
-- This repository contains small FreeCodeCamp learning exercises in JavaScript and Python.
+- This repository contains small FreeCodeCamp learning exercises in JavaScript, Python, and React.
 - Keep examples beginner-friendly and focused on the lesson being practiced.
 
 ## Code Changes
